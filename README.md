@@ -147,6 +147,3 @@ Feedstock Maintainers
 * [@camposandro](https://github.com/camposandro/)
 * [@delucchi-cmu](https://github.com/delucchi-cmu/)
 
-
-<!-- dummy commit to enable rerendering -->
-
